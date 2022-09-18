@@ -38,4 +38,4 @@ double height = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите размер зарплаты: ");
 decimal salary = Convert.ToDecimal(Console.ReadLine());
 
-Console.WriteLine($"Имя: {name}, рост: {height}, возраст: {age}, зарплатаа: {salary}$");
+Console.WriteLine($"Имя: {name}, рост: {height}, возраст: {age}, зарплатаа+: {salary}$");

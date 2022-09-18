@@ -14,6 +14,6 @@
 {
     Console.WriteLine("Первый Блок");
     {
-        Console.WriteLine("Второй блок ИИ");
+        Console.WriteLine("Второй блок ИИ+");
     }
 }
